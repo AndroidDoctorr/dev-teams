@@ -1,0 +1,12 @@
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\bin\Debug\net6.0\DevTeamsRepo.deps.json
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\bin\Debug\net6.0\DevTeamsRepo.dll
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\bin\Debug\net6.0\DevTeamsRepo.pdb
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.csproj.AssemblyReference.cache
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.AssemblyInfoInputs.cache
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.AssemblyInfo.cs
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.csproj.CoreCompileInputs.cache
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.dll
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\refint\DevTeamsRepo.dll
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\DevTeamsRepo.pdb
+C:\Users\gbart\source\repos\DevTeams\DevTeams\DevTeamsRepo\obj\Debug\net6.0\ref\DevTeamsRepo.dll
