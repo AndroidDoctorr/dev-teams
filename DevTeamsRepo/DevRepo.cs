@@ -4,7 +4,9 @@
     private readonly List<Dev> _devs;
 
     // CRUD methods to access developers
-    
+    // Get devs
+    // Get A dev (email or ID)
+    // Remove???
     public List<Dev> GetAllDevs()
     {
         return _devs;
