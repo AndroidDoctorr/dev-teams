@@ -10,4 +10,9 @@
     {
         Id = ++_count;
     }
+
+    public override string ToString()
+    {
+        return $"{Id} -   Name: {Name, -20} Email: {Email, -20}";
+    }
 }
